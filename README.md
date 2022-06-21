@@ -44,7 +44,3 @@ Here is an example server. [https://github.com/PW486/express-ts-starter](https:/
 - [About SwiftUI - SwiftUI Awesome List](https://github.com/Juanpe/About-SwiftUI)
 - [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)
 
-## License
-
-Copyright © 2019 [DONGGEON LIM](https://github.com/PW486).<br />
-This project is [MIT](https://github.com/PW486/swiftui-skeleton-app/blob/master/LICENSE) licensed.
